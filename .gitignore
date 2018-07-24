@@ -1,0 +1,11 @@
+.vertx
+target
+*.iml
+src/main/resources/static
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
